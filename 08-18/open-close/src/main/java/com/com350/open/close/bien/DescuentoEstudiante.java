@@ -11,7 +11,8 @@ import java.math.BigDecimal;
  * @author Dell
  */
 public class DescuentoEstudiante implements IPoliticaDescuento {
-    public boolean aplicaA(Cliente c) { 
+
+       public boolean aplicaA(Cliente c) { 
         return c.esEstudiante();
     }
     public BigDecimal descontar(BigDecimal total) {

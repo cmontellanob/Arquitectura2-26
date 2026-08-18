@@ -14,7 +14,8 @@ import java.util.List;
  
 
 public class CalculadoraDescuento {
-    private final List<PoliticaDescuento> politicas;
+    
+    private final List<IPoliticaDescuento> politicas = null;
  
     public BigDecimal aplicar(Pedido ped, Cliente c) {
         return politicas.stream()

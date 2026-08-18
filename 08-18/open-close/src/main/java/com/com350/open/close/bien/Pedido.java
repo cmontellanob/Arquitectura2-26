@@ -4,14 +4,17 @@
  */
 package com.com350.open.close.bien;
 
+import java.math.BigDecimal;
+
 /**
  *
  * @author Dell
  */
 class Pedido {
 
-    Object total() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    public BigDecimal total() {
+        
+        return new BigDecimal("10.50");
     }
     
 }

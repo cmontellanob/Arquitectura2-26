@@ -11,7 +11,7 @@ package com.com350.open.close.bien;
 class Cliente {
 
     boolean esEstudiante() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+       return true;
     }
     
 }

@@ -4,25 +4,15 @@
  */
 package com.com350.open.close.bien;
 
+import java.math.BigDecimal;
+import java.util.List;
+
 /**
  *
  * @author Dell
  */
-public interface PoliticaDescuento {
-    boolean aplicaA(Cliente cliente);
-    BigDecimal descontar(BigDecimal total);
-}
  
-public class DescuentoEstudiante
-        implements PoliticaDescuento {
-    public boolean aplicaA(Cliente c) {
-        return c.esEstudiante();
-    }
-    public BigDecimal descontar(BigDecimal total) {
-        return total.multiply(new BigDecimal("0.80"));
-    }
-}
- 
+
 public class CalculadoraDescuento {
     private final List<PoliticaDescuento> politicas;
  

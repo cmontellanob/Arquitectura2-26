@@ -1,0 +1,55 @@
+2018-05-23T08:48:12.015Z - info: Express server for Items listening on port8888
+2018-05-23T08:55:51.838Z - info: Express server for Items listening on port8888
+2018-05-23T08:56:59.262Z - info: GET: /api/v1/items
+2018-05-23T08:57:15.600Z - info: POST: /api/v1/items
+2018-05-23T09:02:37.914Z - info: Express server for Items listening on port8888
+2018-05-23T09:02:59.630Z - info: POST: /api/v1/items
+2018-05-23T09:03:01.071Z - info: Item created
+2018-05-23T09:03:44.770Z - info: GET: /api/v1/items
+2018-05-23T09:10:21.506Z - info: Express server for Items listening on port8888
+2018-05-23T09:10:49.439Z - info: POST: /api/v1/items
+2018-05-23T09:16:05.818Z - info: Express server for Items listening on port8888
+2018-05-23T09:16:15.848Z - info: GET: /api/v1/items
+2018-05-23T09:17:48.280Z - info: Express server for Items listening on port8888
+2018-05-23T09:18:00.927Z - info: GET: /api/v1/items
+2018-05-23T09:18:10.424Z - info: POST: /api/v1/items
+2018-05-23T09:19:32.024Z - info: Express server for Items listening on port8888
+2018-05-23T09:19:38.416Z - info: GET: /api/v1/items
+2018-05-23T09:20:00.332Z - info: POST: /api/v1/items
+2018-05-23T09:21:00.332Z - info: Express server for Items listening on port8888
+2018-05-23T09:21:04.954Z - info: POST: /api/v1/items
+2018-05-23T09:23:07.129Z - info: Express server for Items listening on port8888
+2018-05-23T09:23:17.785Z - info: POST: /api/v1/items
+2018-05-23T09:23:18.899Z - info: Item created
+2018-05-23T09:23:24.344Z - info: GET: /api/v1/items
+2018-05-23T09:32:14.738Z - info: Express server for Items listening on port8888
+2018-05-23T09:32:24.800Z - info: POST: /api/v1/items
+2018-05-23T09:32:26.447Z - info: Item created
+2018-05-23T09:32:30.345Z - info: GET: /api/v1/items
+2018-05-23T09:34:48.380Z - info: Express server for Items listening on port8888
+2018-05-23T09:34:56.186Z - info: POST: /api/v1/items
+2018-05-23T09:34:57.325Z - info: Item created
+2018-05-23T09:37:18.295Z - info: Express server for Items listening on port8888
+2018-05-23T09:37:33.980Z - info: POST: /api/v1/items
+2018-05-23T09:37:35.223Z - info: Item created
+2018-05-23T10:51:48.073Z - info: Express server for Items listening on port8888
+2018-05-23T10:52:34.590Z - info: POST: /api/v1/items
+2018-05-23T10:59:07.607Z - info: Express server for Items listening on port8888
+2018-05-23T10:59:14.118Z - info: POST: /api/v1/items
+2018-05-23T10:59:16.023Z - info: Item created
+2018-05-23T11:17:51.332Z - info: POST: /api/v1/items
+2018-05-23T11:17:52.523Z - info: Item created
+2018-05-23T11:17:59.925Z - info: GET: /api/v1/items
+2018-05-23T11:18:39.820Z - info: Express server for Items listening on port8888
+2018-05-23T11:18:47.919Z - info: POST: /api/v1/items
+2018-05-23T11:18:48.769Z - info: Item created
+2018-05-23T11:18:53.340Z - info: GET: /api/v1/items
+2018-05-23T11:21:39.687Z - info: PUT: /api/v1/items/:id
+2018-05-23T11:21:43.395Z - info: Item updated
+2018-05-23T11:21:48.900Z - info: GET: /api/v1/items
+2018-05-23T11:29:06.205Z - info: Express server for Items listening on port8888
+2018-05-23T11:29:09.216Z - info: DELETE: /api/v1/items/:id
+2018-05-23T11:29:11.073Z - info: Item updated
+2018-05-23T11:29:18.868Z - info: GET: /api/v1/items
+2018-05-23T23:32:29.416Z - info: Express server for Items listening on port8888
+2018-05-23T23:32:32.716Z - info: GET: /api/v1/items/:id

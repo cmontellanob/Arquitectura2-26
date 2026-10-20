@@ -1,0 +1,17 @@
+2025-10-08T19:42:43.932Z - info: Begin insert category
+2025-10-08T19:42:43.935Z - info: End insert category
+2025-10-22T14:41:46.493Z - info: Begin list category
+2025-10-22T14:41:46.500Z - info: End list category
+2025-10-22T14:47:24.646Z - info: Begin insert category
+2025-10-22T14:47:24.703Z - info: End insert category
+2025-10-22T14:48:04.892Z - info: Begin update category
+2025-10-22T14:48:04.894Z - info: End update category
+2025-10-22T14:48:04.927Z - info: Category updated
+2025-10-22T14:48:26.010Z - info: Begin update category
+2025-10-22T14:48:26.011Z - info: End update category
+2025-10-22T14:48:26.022Z - info: Category updated
+2025-10-22T14:48:41.223Z - info: Begin delete category
+2025-10-22T14:48:41.225Z - info: End delete category
+2025-10-22T14:48:41.243Z - info: Category deleted
+2025-10-29T13:14:16.640Z - info: Begin insert category
+2025-10-29T13:14:16.675Z - info: End insert category

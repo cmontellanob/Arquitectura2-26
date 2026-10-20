@@ -1,0 +1,8 @@
+2022-06-28T16:14:09.858Z - info: Express server for Items listening on port3002
+2022-06-28T16:17:49.151Z - info: Express server for Items listening on port3002
+2022-06-28T16:17:55.599Z - info: GET: /api/v1/items
+2022-06-28T16:17:55.601Z - info: ConsultaSELECT * FROM item 
+2022-06-28T16:17:55.853Z - info: Query items by undefined
+2022-06-28T16:34:31.612Z - info: GET: /api/v1/items
+2022-06-28T16:34:31.677Z - info: ConsultaSELECT * FROM item 
+2022-06-28T16:34:31.724Z - info: Query items by undefined

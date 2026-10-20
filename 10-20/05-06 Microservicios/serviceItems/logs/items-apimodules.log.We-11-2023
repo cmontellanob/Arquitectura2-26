@@ -1,0 +1,31 @@
+2023-11-01T13:07:33.705Z - info: Express server for Items listening on port3002
+2023-11-01T13:07:52.813Z - info: GET: /api/v1/items
+2023-11-01T13:07:52.820Z - info: ConsultaSELECT * FROM item 
+2023-11-01T13:07:53.106Z - info: Query items by undefined
+2023-11-01T13:08:06.637Z - info: POST: /api/v1/items
+2023-11-01T14:55:10.437Z - info: Express server for Items listening on port3002
+2023-11-01T14:55:46.437Z - info: GET: /api/v1/items
+2023-11-01T14:55:46.439Z - info: ConsultaSELECT * FROM item 
+2023-11-01T14:55:46.623Z - info: Query items by undefined
+2023-11-01T14:58:06.822Z - info: Express server for Items listening on port3002
+2023-11-01T14:58:18.926Z - info: Express server for Items listening on port3002
+2023-11-01T15:00:50.854Z - info: Express server for Items listening on port3002
+2023-11-01T15:00:55.077Z - info: GET: /api/v1/items
+2023-11-01T15:01:24.293Z - info: Express server for Items listening on port3002
+2023-11-01T15:01:27.701Z - info: GET: /api/v1/items
+2023-11-01T15:01:27.784Z - info: Query items by undefined
+2023-11-01T15:02:04.654Z - info: Express server for Items listening on port3002
+2023-11-01T15:02:36.075Z - info: Express server for Items listening on port3002
+2023-11-01T15:03:28.396Z - info: POST: /api/v1/items
+2023-11-01T15:04:21.744Z - info: Express server for Items listening on port3002
+2023-11-01T15:04:36.581Z - info: POST: /api/v1/items
+2023-11-01T15:06:26.681Z - info: Express server for Items listening on port3002
+2023-11-01T15:06:47.945Z - info: POST: /api/v1/items
+2023-11-01T15:07:15.708Z - info: Express server for Items listening on port3002
+2023-11-01T15:07:16.166Z - info: POST: /api/v1/items
+2023-11-01T15:07:47.572Z - info: Express server for Items listening on port3002
+2023-11-01T15:07:50.172Z - info: POST: /api/v1/items
+2023-11-01T15:08:36.692Z - info: Express server for Items listening on port3002
+2023-11-01T15:08:38.349Z - info: POST: /api/v1/items
+2023-11-01T15:09:24.677Z - info: Express server for Items listening on port3002
+2023-11-01T15:09:36.558Z - info: Express server for Items listening on port3002

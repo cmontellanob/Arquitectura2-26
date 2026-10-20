@@ -1,0 +1,30 @@
+2023-10-25T14:11:39.830Z - info: Express server for Items listening on port3002
+2023-10-25T14:15:38.495Z - info: Express server for Items listening on port3002
+2023-10-25T14:16:13.962Z - info: Express server for Items listening on port3002
+2023-10-25T14:17:22.715Z - info: Express server for Items listening on port3002
+2023-10-25T14:18:04.472Z - info: Express server for Items listening on port3002
+2023-10-25T14:18:28.206Z - info: Express server for Items listening on port3002
+2023-10-25T14:21:47.940Z - info: Express server for Items listening on port3002
+2023-10-25T14:22:33.372Z - info: Express server for Items listening on port3002
+2023-10-25T14:22:37.729Z - info: GET: /api/v1/items
+2023-10-25T14:22:37.731Z - info: ConsultaSELECT * FROM item 
+2023-10-25T14:22:37.841Z - info: Query items by undefined
+2023-10-25T14:28:03.153Z - info: Express server for Items listening on port3002
+2023-10-25T14:28:07.528Z - info: POST: /api/v1/items
+2023-10-25T14:29:36.006Z - info: Express server for Items listening on port3002
+2023-10-25T14:29:45.586Z - info: GET: /api/v1/items
+2023-10-25T14:29:45.587Z - info: ConsultaSELECT * FROM item 
+2023-10-25T14:29:45.672Z - info: Query items by undefined
+2023-10-25T14:30:13.761Z - info: Express server for Items listening on port3002
+2023-10-25T14:30:19.427Z - info: POST: /api/v1/items
+2023-10-25T14:30:54.890Z - info: Express server for Items listening on port3002
+2023-10-25T14:30:57.411Z - info: POST: /api/v1/items
+2023-10-25T14:32:18.166Z - info: Express server for Items listening on port3002
+2023-10-25T14:33:05.203Z - info: Express server for Items listening on port3002
+2023-10-25T14:35:05.527Z - info: Express server for Items listening on port3002
+2023-10-25T14:35:32.950Z - info: Express server for Items listening on port3002
+2023-10-25T14:35:36.298Z - info: POST: /api/v1/items
+2023-10-25T14:36:26.424Z - info: Express server for Items listening on port3002
+2023-10-25T14:36:32.124Z - info: POST: /api/v1/items
+2023-10-25T14:37:33.558Z - info: Express server for Items listening on port3002
+2023-10-25T14:37:38.422Z - info: POST: /api/v1/items

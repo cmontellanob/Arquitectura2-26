@@ -1,0 +1,117 @@
+2024-05-21T16:50:15.824Z - info: Express server for Items listening on port3002
+2024-05-21T16:50:18.780Z - info: Express server for Items listening on port3002
+2024-05-21T16:50:40.633Z - info: GET: /api/v1/items
+2024-05-21T16:50:40.710Z - info: Query items by undefined
+2024-05-21T16:51:49.551Z - info: Express server for Items listening on port3002
+2024-05-21T16:51:57.839Z - info: GET: /api/v1/items
+2024-05-21T16:51:57.964Z - info: Query items by undefined
+2024-05-28T15:48:28.378Z - info: Express server for Items listening on port3002
+2024-05-28T15:48:41.559Z - info: Express server for Items listening on port3002
+2024-05-28T15:55:58.310Z - info: Express server for Items listening on port3002
+2024-05-28T15:56:12.742Z - info: Express server for Items listening on port3002
+2024-05-28T15:56:19.273Z - info: Express server for Items listening on port3002
+2024-05-28T15:57:41.682Z - info: Express server for Items listening on port3002
+2024-05-28T15:57:46.628Z - info: GET: /api/v1/items
+2024-05-28T15:57:46.706Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T15:57:57.292Z - info: GET: /api/v1/items
+2024-05-28T15:57:57.296Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T15:59:36.039Z - info: Express server for Items listening on port3002
+2024-05-28T16:00:09.534Z - info: Express server for Items listening on port3002
+2024-05-28T16:01:01.307Z - info: Express server for Items listening on port3002
+2024-05-28T16:01:55.727Z - info: Express server for Items listening on port3002
+2024-05-28T16:03:04.338Z - info: Express server for Items listening on port3002
+2024-05-28T16:03:09.712Z - info: Express server for Items listening on port3002
+2024-05-28T16:03:34.359Z - info: Express server for Items listening on port3002
+2024-05-28T16:05:15.819Z - info: Express server for Items listening on port3002
+2024-05-28T16:05:22.484Z - info: Express server for Items listening on port3002
+2024-05-28T16:05:26.326Z - info: Express server for Items listening on port3002
+2024-05-28T16:07:13.765Z - info: Express server for Items listening on port3002
+2024-05-28T16:07:41.596Z - info: Express server for Items listening on port3002
+2024-05-28T16:07:49.889Z - info: Express server for Items listening on port3002
+2024-05-28T16:09:03.957Z - info: Express server for Items listening on port3002
+2024-05-28T16:11:01.401Z - info: Express server for Items listening on port3002
+2024-05-28T16:11:08.169Z - info: Express server for Items listening on port3002
+2024-05-28T16:11:12.964Z - info: Express server for Items listening on port3002
+2024-05-28T16:11:43.595Z - info: Express server for Items listening on port3002
+2024-05-28T16:12:43.126Z - info: Express server for Items listening on port3002
+2024-05-28T16:12:53.792Z - info: Express server for Items listening on port3002
+2024-05-28T16:13:41.932Z - info: Express server for Items listening on port3002
+2024-05-28T16:13:49.387Z - info: Express server for Items listening on port3002
+2024-05-28T16:13:55.494Z - info: Express server for Items listening on port3002
+2024-05-28T16:13:58.752Z - info: Express server for Items listening on port3002
+2024-05-28T16:14:01.787Z - info: Express server for Items listening on port3002
+2024-05-28T16:14:05.377Z - info: Express server for Items listening on port3002
+2024-05-28T16:14:13.220Z - info: GET: /api/v1/items
+2024-05-28T16:14:13.280Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:15:59.363Z - info: Express server for Items listening on port3002
+2024-05-28T16:16:27.118Z - info: Express server for Items listening on port3002
+2024-05-28T16:17:59.722Z - info: Express server for Items listening on port3002
+2024-05-28T16:18:31.042Z - info: Express server for Items listening on port3002
+2024-05-28T16:18:34.393Z - info: Express server for Items listening on port3002
+2024-05-28T16:18:40.634Z - info: Express server for Items listening on port3002
+2024-05-28T16:18:43.363Z - info: Express server for Items listening on port3002
+2024-05-28T16:21:33.662Z - info: Express server for Items listening on port3002
+2024-05-28T16:21:42.855Z - info: GET: /api/v1/items
+2024-05-28T16:21:42.922Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:22:55.016Z - info: Express server for Items listening on port3002
+2024-05-28T16:23:29.757Z - info: Express server for Items listening on port3002
+2024-05-28T16:23:43.231Z - info: Express server for Items listening on port3002
+2024-05-28T16:23:47.442Z - info: Express server for Items listening on port3002
+2024-05-28T16:23:50.690Z - info: Express server for Items listening on port3002
+2024-05-28T16:24:20.560Z - info: Express server for Items listening on port3002
+2024-05-28T16:24:29.142Z - info: Express server for Items listening on port3002
+2024-05-28T16:25:19.160Z - info: Express server for Items listening on port3002
+2024-05-28T16:25:23.128Z - info: Express server for Items listening on port3002
+2024-05-28T16:26:58.142Z - info: GET: /api/v1/items
+2024-05-28T16:26:58.206Z - info: Query items by undefined
+2024-05-28T16:27:39.980Z - info: Express server for Items listening on port3002
+2024-05-28T16:27:46.111Z - info: Express server for Items listening on port3002
+2024-05-28T16:27:49.500Z - info: Express server for Items listening on port3002
+2024-05-28T16:27:54.510Z - info: Express server for Items listening on port3002
+2024-05-28T16:27:59.223Z - info: GET: /api/v1/items
+2024-05-28T16:27:59.307Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:28:23.730Z - info: GET: /api/v1/items
+2024-05-28T16:28:23.747Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:30:58.332Z - info: Express server for Items listening on port3002
+2024-05-28T16:31:00.293Z - info: Express server for Items listening on port3002
+2024-05-28T16:31:07.755Z - info: Express server for Items listening on port3002
+2024-05-28T16:31:12.230Z - info: Express server for Items listening on port3002
+2024-05-28T16:31:19.474Z - info: Express server for Items listening on port3002
+2024-05-28T16:31:21.243Z - info: Express server for Items listening on port3002
+2024-05-28T16:31:32.710Z - info: Express server for Items listening on port3002
+2024-05-28T16:32:18.125Z - info: Express server for Items listening on port3002
+2024-05-28T16:32:33.940Z - info: Express server for Items listening on port3002
+2024-05-28T16:32:42.659Z - info: GET: /api/v1/items
+2024-05-28T16:32:42.728Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:33:46.538Z - info: Express server for Items listening on port3002
+2024-05-28T16:35:02.850Z - info: Express server for Items listening on port3002
+2024-05-28T16:35:07.134Z - info: Item created without photo by 664e4622dd02a1f975d2c72d
+2024-05-28T16:35:51.047Z - info: GET: /api/v1/items
+2024-05-28T16:35:51.054Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:41:32.952Z - info: GET: /api/v1/items/:id
+2024-05-28T16:41:32.958Z - info: Query items by undefined
+2024-05-28T16:42:59.749Z - info: PUT: /api/v1/items/:id
+2024-05-28T16:42:59.779Z - info: Item updated by undefined
+2024-05-28T16:43:07.873Z - info: GET: /api/v1/items
+2024-05-28T16:43:07.878Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:44:23.384Z - info: Item created without photo by 664e4622dd02a1f975d2c72d
+2024-05-28T16:44:28.916Z - info: GET: /api/v1/items
+2024-05-28T16:44:28.921Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:44:39.705Z - info: DELETE: /api/v1/items/:id
+2024-05-28T16:44:39.741Z - info: Item deleted by 664e4622dd02a1f975d2c72d
+2024-05-28T16:44:46.864Z - info: GET: /api/v1/items
+2024-05-28T16:44:46.867Z - info: Query items by 664e4622dd02a1f975d2c72d
+2024-05-28T16:45:29.847Z - info: Express server for Items listening on port3002
+2024-05-28T16:45:30.772Z - info: Express server for Items listening on port3002
+2024-05-28T16:45:33.273Z - info: Express server for Items listening on port3002
+2024-05-28T16:45:47.395Z - info: Express server for Items listening on port3002
+2024-05-28T16:45:51.419Z - info: Express server for Items listening on port3002
+2024-05-28T16:45:52.374Z - info: Express server for Items listening on port3002
+2024-05-28T16:45:59.300Z - info: Express server for Items listening on port3002
+2024-05-28T16:46:02.895Z - info: Express server for Items listening on port3002
+2024-05-28T16:47:00.319Z - info: Express server for Items listening on port3002
+2024-05-28T16:47:23.880Z - info: Express server for Items listening on port3002
+2024-05-28T16:47:55.700Z - info: Express server for Items listening on port3002
+2024-05-28T16:48:47.341Z - info: Express server for Items listening on port3002
+2024-05-28T16:48:49.380Z - info: GET: /api/v1/items
+2024-05-28T16:48:49.508Z - info: Query items by 664e4622dd02a1f975d2c72d

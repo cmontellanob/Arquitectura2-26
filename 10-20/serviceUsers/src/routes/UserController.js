@@ -13,7 +13,7 @@ var logger = require('../config/log');
 
 
 // Crear usuario
-router.post('/',  function (req, res) {
+router.post('/',function (req, res) {
     logger.info("Begin Register User");
     var hashedPassword = bcrypt.hashSync(req.body.password, 8);
     console.log(req.body.email);
@@ -71,7 +71,7 @@ router.get('/:id', function (req, res) {
 router.delete('/:id', function (req, res) {
     logger.info("Begin inactive User");
     console.log("inactivo");
-    User.findByIdAndUpdate(req.params.id, { state: "inactive" }, { new: true }).exec()
+    User.findByIdAndDelete(req.params.id).exec()
     .then (UsuarioEliminado=> {
         res.status(200).send(UsuarioEliminado);
     });

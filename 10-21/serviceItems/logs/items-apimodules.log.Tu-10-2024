@@ -1,0 +1,15 @@
+2024-10-29T16:05:29.227Z - info: Express server for Items listening on port3002
+2024-10-29T16:07:26.695Z - info: GET: /api/v1/items
+2024-10-29T16:07:26.790Z - info: Query items by 671907b741c95da6b227cbbc
+2024-10-29T16:08:05.237Z - info: Item created without photo by 671907b741c95da6b227cbbc
+2024-10-29T16:10:03.037Z - info: GET: /api/v1/items
+2024-10-29T16:10:03.046Z - info: Query items by 671907b741c95da6b227cbbc
+2024-10-29T16:10:17.376Z - info: GET: /api/v1/items/:id
+2024-10-29T16:10:17.384Z - info: Query items by undefined
+2024-10-29T16:10:37.380Z - info: PUT: /api/v1/items/:id
+2024-10-29T16:10:37.391Z - info: Item updated by undefined
+2024-10-29T16:11:09.192Z - info: Item created without photo by 671907b741c95da6b227cbbc
+2024-10-29T16:12:15.799Z - info: Express server for Items listening on port3002
+2024-10-29T16:12:19.263Z - info: Express server for Items listening on port3002
+2024-10-29T16:12:31.564Z - info: Item created without photo by 671907b741c95da6b227cbbc
+2024-10-29T16:13:48.480Z - info: Express server for Items listening on port3002

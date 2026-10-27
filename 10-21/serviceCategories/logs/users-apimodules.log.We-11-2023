@@ -1,0 +1,80 @@
+2023-11-01T13:55:50.388Z - info: Begin insert category
+2023-11-01T13:55:50.448Z - info: End insert category
+2023-11-01T13:57:06.243Z - info: Begin insert category
+2023-11-01T13:57:06.298Z - info: End insert category
+2023-11-01T14:01:58.455Z - info: Begin list category
+2023-11-01T14:01:58.532Z - info: End list category
+2023-11-01T14:05:12.881Z - info: Begin list category
+2023-11-01T14:05:12.942Z - info: End list category
+2023-11-01T14:05:24.688Z - info: Begin insert category
+2023-11-01T14:05:24.690Z - info: End insert category
+2023-11-01T14:05:50.723Z - info: Begin insert category
+2023-11-01T14:05:50.764Z - info: End insert category
+2023-11-01T14:12:13.510Z - info: Begin list category
+2023-11-01T14:13:08.833Z - info: Begin list category
+2023-11-01T14:13:51.412Z - info: Begin list category
+2023-11-01T14:14:51.117Z - info: Begin list category
+2023-11-01T14:14:51.200Z - info: End list category
+2023-11-01T14:15:27.616Z - info: Begin list category
+2023-11-01T14:15:27.723Z - info: End list category
+2023-11-01T14:15:46.601Z - info: Begin list category
+2023-11-01T14:15:46.604Z - info: End list category
+2023-11-01T14:17:05.708Z - info: Begin list category
+2023-11-01T14:17:05.804Z - info: End list category
+2023-11-01T14:21:18.241Z - info: Begin list category
+2023-11-01T14:21:18.305Z - info: End list category
+2023-11-01T14:22:05.836Z - info: Begin list category
+2023-11-01T14:22:05.913Z - info: End list category
+2023-11-01T14:22:20.190Z - info: Begin list category
+2023-11-01T14:22:20.194Z - info: End list category
+2023-11-01T14:32:08.656Z - info: Begin insert category
+2023-11-01T14:32:08.657Z - info: End insert category
+2023-11-01T14:33:10.409Z - info: Begin insert category
+2023-11-01T14:33:10.470Z - info: End insert category
+2023-11-01T14:33:48.931Z - info: Begin insert category
+2023-11-01T14:33:48.988Z - info: End insert category
+2023-11-01T14:35:21.655Z - info: Begin insert category
+2023-11-01T14:35:21.714Z - info: End insert category
+2023-11-01T14:35:21.789Z - info: Category inserted
+2023-11-01T14:36:34.303Z - info: Begin insert category
+2023-11-01T14:36:34.361Z - info: End insert category
+2023-11-01T14:36:34.431Z - info: Category inserted
+2023-11-01T14:37:33.361Z - info: Begin insert category
+2023-11-01T14:37:33.461Z - info: End insert category
+2023-11-01T14:37:43.805Z - info: Begin insert category
+2023-11-01T14:37:43.807Z - info: End insert category
+2023-11-01T14:38:28.741Z - info: Begin list category
+2023-11-01T14:38:28.815Z - info: End list category
+2023-11-01T14:39:13.826Z - info: Begin update category
+2023-11-01T14:39:13.828Z - info: End update category
+2023-11-01T14:39:13.846Z - info: Category updated
+2023-11-01T14:40:58.118Z - info: Begin update category
+2023-11-01T14:40:58.196Z - info: End update category
+2023-11-01T14:40:58.265Z - info: Category updated
+2023-11-01T14:41:48.376Z - info: Begin update category
+2023-11-01T14:41:48.438Z - info: End update category
+2023-11-01T14:41:48.506Z - info: The category was not updated
+2023-11-01T14:42:06.751Z - info: Begin update category
+2023-11-01T14:42:06.851Z - info: End update category
+2023-11-01T14:42:06.958Z - info: The category was not updated
+2023-11-01T14:42:16.283Z - info: Begin update category
+2023-11-01T14:42:16.286Z - info: End update category
+2023-11-01T14:42:16.355Z - info: The category was not updated
+2023-11-01T14:42:31.582Z - info: Begin update category
+2023-11-01T14:42:31.643Z - info: End update category
+2023-11-01T14:42:31.712Z - info: Category updated
+2023-11-01T14:42:52.012Z - info: Begin update category
+2023-11-01T14:42:52.074Z - info: End update category
+2023-11-01T14:42:52.219Z - info: Category updated
+2023-11-01T14:43:55.752Z - info: Begin update category
+2023-11-01T14:43:55.841Z - info: End update category
+2023-11-01T14:43:55.914Z - info: Category updated
+2023-11-01T14:44:33.745Z - info: Begin update category
+2023-11-01T14:44:33.845Z - info: End update category
+2023-11-01T14:44:33.940Z - info: Category updated
+2023-11-01T14:44:43.565Z - info: Begin update category
+2023-11-01T14:44:43.567Z - info: End update category
+2023-11-01T14:44:43.582Z - info: Category updated
+2023-11-01T14:46:21.018Z - info: Begin delete category
+2023-11-01T14:46:21.140Z - info: End delete category
+2023-11-01T14:46:21.256Z - info: Category deleted

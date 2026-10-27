@@ -1,0 +1,27 @@
+services:
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    networks:
+      - appnet
+  users:
+    build: ./serviceUsers
+    image: usuarios:1.0 
+    ports:
+      - "3000:3000"
+    networks:
+      - appnet
+  items:
+    build: ./serviceItems
+    image: items:1.0
+    ports:
+      - "3002:3002"
+    networks:
+      - appnedocker build -t <nombre> .docker build -t <nombre> .
+
+networks:
+  appnet:
+    driver: bridge

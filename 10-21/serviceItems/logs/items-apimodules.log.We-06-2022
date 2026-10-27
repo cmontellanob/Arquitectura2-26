@@ -1,0 +1,9 @@
+2022-06-29T13:16:18.000Z - info: GET: /api/v1/items
+2022-06-29T13:16:18.071Z - info: ConsultaSELECT * FROM item 
+2022-06-29T13:16:18.136Z - info: Query items by undefined
+2022-06-29T13:56:12.876Z - info: GET: /api/v1/items
+2022-06-29T13:56:12.884Z - info: ConsultaSELECT * FROM item 
+2022-06-29T13:56:12.957Z - info: Query items by undefined
+2022-06-29T13:58:28.640Z - info: GET: /api/v1/items
+2022-06-29T13:58:28.643Z - info: ConsultaSELECT * FROM item 
+2022-06-29T13:58:28.673Z - info: Query items by undefined
